@@ -1,4 +1,4 @@
 # FlashAMF3
 Flash AMF3协议解析
 
-Visual Studio 2013,.Net FrameWork 4.0
+需要.Net FrameWork 4.0及以上
